@@ -94,6 +94,20 @@ Areas that could use expansion:
 - Medical separation / IDES process
 - State-by-state benefits breakdown
 
+## Fact-Check Status
+
+Content last reviewed and verified: **June 2026**. Key items verified:
+- BDD 180–90 day window ✅ current
+- GI Bill expiration rules (Forever GI Bill for post-Jan 2013 separations) ✅ corrected
+- SBP-DIC offset eliminated January 2023 ✅ added
+- SBP paid-up provision (age 70 + 30 years) ✅ added
+- Army Credentialing Assistance reduced to $2,000/year, officers ineligible (Dec 2024) ✅ corrected
+- CRDP 50% threshold ✅ current
+- 2026 military pay raise (3.8%) and retiree COLA (2.8%) ✅ added
+- SkillBridge 2024–2025 partner vetting tightened ✅ noted
+- PACT Act still expanding presumptive conditions in 2026 ✅ current
+- SGLI/VGLI 240-day window ✅ current (VGLI premiums reduced July 2025)
+
 ## Disclaimer
 
 This guide is for informational purposes only. Military regulations, VA policies, and benefit programs change frequently. Always verify current requirements with your branch's official transition office, VA.gov, and DoD resources. This is not legal or financial advice.
